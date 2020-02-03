@@ -1,0 +1,2 @@
+# TICKR
+stock prediction application
